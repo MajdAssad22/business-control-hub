@@ -1,5 +1,4 @@
 # Business Control Hub
-## Overview
 Business Control Hub is a robust application tailored to empower businesses by providing a centralized platform for tracking products, departments, employees, and orders. Designed to enhance operational efficiency, this app offers a comprehensive suite of features to streamline business processes and facilitate informed decision-making.
 
 ## Key Features
