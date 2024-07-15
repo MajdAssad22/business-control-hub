@@ -26,10 +26,10 @@ External libraries:
 - Material Design
 
 Contributers:
-- Majd Assad
-- Samer Haj
-- Mohamed Sayed Ahmed
-- Jeries Nsery
+- [Majd Assad](https://www.github.com/majdassad22)
+- [Samer Haj](https://github.com/Samerhajj)
+- [Mohamed Sayed Ahmed](https://github.com/mohamedsayedahmd)
+- [Jeries Nsery](https://github.com/jeriesnesery1)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
